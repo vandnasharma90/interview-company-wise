@@ -64,3 +64,10 @@ Preferred Skill Sets: Data Factory / Data Store / Data Lake
 
 Knowledge of Wholesale Banking, Trade Finance, Accounting Lifecycle, Ledger,
 Subledger, Chart of Accounts, Business Events is preferred
+
+
+## Interview Questions
+
+Technical skills and previous work experience and the behavioral skills
+How you handled the issue with Onshore team 
+Describe current project architecture.
