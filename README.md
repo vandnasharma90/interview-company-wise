@@ -56,6 +56,7 @@
 
   
 #### CDEs - Critical Data Elements
+* [Critical data elements: why are they important and how to measure them ?](https://www.lightsondata.com/critical-data-elements-importance/#)
    
 #### Ownership
 
