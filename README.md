@@ -62,11 +62,13 @@
 ## Azure
 
 * Data Store
-[Introduction to Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+  * [Introduction to Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
 
 * Data Factory
-  
+  * [Azure Data Factory For Beginners](https://k21academy.com/microsoft-azure/data-engineer/azure-data-factory/)
+    
 * Data Lake
+  * [Azure Data Lake Overview For Beginners ](https://k21academy.com/microsoft-azure/data-engineer/azure-data-lake/)
 
 * Data distribution and centralized downstream management
 
