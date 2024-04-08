@@ -63,6 +63,8 @@
 
 * Data Store
   * [Introduction to Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+  * [Microsoft Azure Storage Account: A Comprehensive Guide](https://k21academy.com/microsoft-azure/admin/azure-storage-account/)
+  * [Azure Storage](https://k21academy.com/microsoft-azure/admin/day6-live-session-review/)
 
 * Data Factory
   * [Azure Data Factory For Beginners](https://k21academy.com/microsoft-azure/data-engineer/azure-data-factory/)
