@@ -55,8 +55,9 @@
 * [What is Data Lineage?](https://www.geeksforgeeks.org/what-is-data-lineage/)
 
   
- * Defining CDEs
- * Ownership
+#### CDEs - Critical Data Elements
+   
+#### Ownership
 
 ## Azure
 
