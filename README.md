@@ -47,12 +47,26 @@
   * Data dictionary
 
 #### Data Lineage 
+
+* [Data Lineage](https://www.imperva.com/learn/data-security/data-lineage/#:~:text=Data%20lineage%20is%20the%20process,Data%20lineage%20process)
+* [14 Questions to Ask When Evaluating Data Lineage](https://towardsdatascience.com/14-questions-to-ask-when-evaluating-data-lineage-d7af718b150a)
+* [20 Data Lineage Interview Questions and Answers ](https://climbtheladder.com/data-lineage-interview-questions/)
+* [Three Most Common Questions About Data Lineage](https://dataqg.com/qgblogs/answers-to-the-three-most-common-questions-about-data-lineage/)
+* [What is Data Lineage?](https://www.geeksforgeeks.org/what-is-data-lineage/)
+
+  
  * Defining CDEs
  * Ownership
 
-* Data Factory
+## Azure
+
 * Data Store
+[Introduction to Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+
+* Data Factory
+  
 * Data Lake
+
 * Data distribution and centralized downstream management
 
 #### SQL 
