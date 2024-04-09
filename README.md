@@ -2,6 +2,8 @@
 
 ## Senior Associate PWC
 
+** [Job Description](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/Senior-Associate_487997WD-1)
+
 #### Requirement Lifecycle management
   * Requirement gathering
   * Elicitation
@@ -9,11 +11,13 @@
   * Documentation
     * BRDs
     * FRDs
-    * As-Is vs To-be (Current vs Future state) / Gap
+    * As-Is vs To-be (Current vs Future state) / Gap Analysis
+    *  Process modelling
 
-* Analysis and Process modelling
 * Functional and User Acceptance Testing, Test Scenarios and Test Conditions, End to End (Integration)
-* Pre-Production support, Go-Live Support, Approvals and Sign-Offs; Agile & Waterfall
+* Pre-Production support, Go-Live Support, Approvals and Sign-Offs
+* Agile
+* Waterfall
 
 #### Data Analyst
   * Data Lifecycle
@@ -25,11 +29,9 @@
     * Analysis
     * Visualization
     * Interpretation
-
-* BCBS 239 compliance
+    * BCBS 239 compliance
 * SLA / Ownership and Approvals
-
-#### Data Integrity 
+* Data Integrity 
   * Accuracy
   * Completeness
   * Reliability
@@ -38,9 +40,8 @@
   * Frequency and Distribution
   * Reconciliation
 
-#### Data Quality Management Framework
-
-#### Data Governance and Solutions
+* Data Quality Management Framework
+* Data Governance and Solutions
   * Metadata dictionary / management
   * Data modeling
   * Data definition
