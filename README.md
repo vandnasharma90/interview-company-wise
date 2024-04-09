@@ -2,7 +2,7 @@
 
 ## Senior Associate PWC
 
-** [Job Description](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/Senior-Associate_487997WD-1)
+* [Job Description](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/Senior-Associate_487997WD-1)
 
 #### Requirement Lifecycle management
   * Requirement gathering
