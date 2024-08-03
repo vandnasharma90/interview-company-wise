@@ -1,6 +1,7 @@
 # interview-company-wise
 
 ## Senior Associate PWC
+- [SQL Query Interview Questions](https://www.geeksforgeeks.org/sql-query-interview-questions/)
 
 * [Job Description](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Goregaon/Senior-Associate_487997WD-1)
 
